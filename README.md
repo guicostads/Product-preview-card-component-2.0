@@ -14,10 +14,10 @@ See hover and focus states for interactive elements
  )
 
 ### Built with
-HTML5
-CSS custom properties
-Flexbox
-Grid
+- HTML5
+- CSS custom properties
+- Flexbox
+- Grid
 
 ### What I learned
 
