@@ -23,7 +23,7 @@ See hover and focus states for interactive elements
 
 I redid the challenge apllying some very useful advice that I got when I first published my previous solution. Learned a lot about responsive layouts.
 
-Author
+### Author
 https://github.com/guicostads
 
 www.linkedin.com/in/guilherme-costa-901653189
